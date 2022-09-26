@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header';
 
 import './App.css';
@@ -10,3 +9,4 @@ function App() {
 }
 
 export default App;
+// https://blog.task.com.br/ 
